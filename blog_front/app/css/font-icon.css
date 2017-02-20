@@ -1,0 +1,41 @@
+.el-home:before{
+    content: "\f189";
+}
+.el-star:before{
+    content: "\f1fe";
+}
+.el-envelope:before{
+    content: "\f14b";
+}
+.el-fire:before{
+    content: "\f15f";
+}
+.el-share-alt:before{
+    content: "\f1ef";
+}
+.el-user:before{
+    content: "\f21b";
+}
+.el-comment:before{
+    content: "\f13c";
+}
+.el-time:before{
+    content: "\f20f";
+}
+.el-eye-open:before{
+    content: "\f151";
+}
+.el-th-list:before{
+    content: "\f20a";
+}
+i{
+    display: inline-block;
+    font: normal normal normal 14px/1 'Elusive-Icons';
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    color: #ff6700;
+    margin-right: 5px;
+}
